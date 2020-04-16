@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My Profile</string>
+    <string name="todo">TODO</string>
+    <string name="article_title">Muhammad Yusron Fathur Rozaq</string>
+    <string name="article_content">
+        Mahasiswa Informatika UPGRIS\n\n
+        <b>Yusron biasa orang memangil ku, saya suka Traveling, Fotografi, Desain, dan Belajar Coding Pastinya. Motivasi saya Terus mencoba walau salalu gagal, Karna keberhasilan datang karna kita slalu berusaha.  </b>
+        \n</string>
+    <string name="article_title2">
+        Detail</string>\n
+    <string name="article_title3">
+
+        Lahir_______: <b>11 Januari 1998</b>\n
+        Tinggi_____ : <b>1,70 meter</b>\n
+        Alamat____ : <b>Dukuh Klitikan RT2 RW2, Kec. Kedungjati, Kab. Grobogan</b>
+        \n
+        Maps_____ : <b> https://www.google.com/maps/@-7.1564579,110.6395389,18.79z</b>
+        \n
+        Email_____ : <b>yusron11mg@gmail.com</b>\n
+        Instagram_ : <b>https://www.instagram.com/yusron_fr/?hl=idhttps://www.instagram.com/yusron_fr/?hl=id</b>\n
+        </string>
+    <string name="article_title4">
+        Tugas dibuat oleh
+    </string>
+    <string name="article_title5">
+       <b3> Nama: Muhammad Yusron Fathur Rozaq\n
+        NPM:17670009</b3>
+    </string>
+    <string name="uts">UTS</string>
+</resources>
